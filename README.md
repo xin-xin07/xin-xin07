@@ -18,9 +18,7 @@
 
 - 🛠 &nbsp; I’m currently working with C, py, JAVA, HTML, JS, .
 - 🚀 &nbsp; I’m currently exploring study.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
 
 ### My Absolute Favorites:
 
